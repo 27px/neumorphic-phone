@@ -1,2 +1,2 @@
 #Neumorphic Design
-First Neumorphism try
+First neumorphic design
